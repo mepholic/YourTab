@@ -1,3 +1,11 @@
+## Note from mepholic
+
+I've reflowed pretty much all of the JS files, replacing the crappy spaces with tabs, and tried to format everything sanely.
+
+I also believe I fixed a few issues and got this working for the most part on the latest Google Chrome Stable
+
+I might continue working on this if I find it's worth it!
+
 # YourTab - Chrome Extension
 
 Download the .crx from the latest release and drag into your Chrome to install!
